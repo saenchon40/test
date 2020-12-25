@@ -1,0 +1,13 @@
+{ 
+	"kernel": { 
+		"name": "Quantic Kernel", 
+		"version": "4.14.212", 
+		"link": "https://github.com/Official-Ayrton990/Quantic_kernel_xiaomi_sm8150/releases/download/201220/Quantic-Cepheus-201220.zip", 
+		"changelog_url": "https://github.com/Official-Ayrton990/Quantic_kernel_xiaomi_sm8150", 
+		"date": "2020-12-20", 
+		"sha1": "5e9083292adfcd734096ee4c572036e68def0e4d"
+		},
+	"support": { 
+		"link": "https://t.me/ayrton990mods" 
+		}
+}
